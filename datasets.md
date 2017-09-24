@@ -21,8 +21,8 @@ departamento                 | texto
 localidad                    | texto
 municipio                    | texto
 mail_institucional           | texto
-latitud                      | float
-longitud                     | float
+latitud                      | numerico
+longitud                     | numerico
 horarios                     | texto
 link_facebook                | texto
 estado (Activo / Inactivo)   | texto
