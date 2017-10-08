@@ -49,5 +49,6 @@ function generateRandomPoint(center, radius) {
 * Generates number of random geolocation points given a center and a radius.
 */
 module.exports = {
-  generateRandomPoints
+  generateRandomPoints,
+  generateRandomPoint
 };

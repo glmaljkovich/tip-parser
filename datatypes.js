@@ -5,6 +5,15 @@ function ESIndexOp (type, index) {
   this.index._type = type;
 }
 
+
+
+/**
+ * LatLong - An object with latitude and longitude
+ *
+ * @param  {number} lat  latitude
+ * @param  {number} long longitude
+ * @return {LatLong} a point 
+ */
 function LatLong (lat, long) {
   this.lat = lat;
   this.lon = long;

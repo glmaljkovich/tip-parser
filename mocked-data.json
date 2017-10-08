@@ -1,0 +1,132 @@
+[
+  {
+    "location": {
+      "lat": 40.10249325271319,
+      "lon": -40.20026588596192
+    },
+    "data": {
+      "Edad": 60,
+      "numero_de_cuadras_a_parada_de_colectivo": 11,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.10326487978039,
+      "lon": -40.197210422666465
+    },
+    "data": {
+      "Edad": 26,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 17,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.102277325103515,
+      "lon": -40.19710934396492
+    },
+    "data": {
+      "Edad": 96,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 14,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false
+    }
+  },
+  {
+    "location": {
+      "lat": 40.09230292187709,
+      "lon": -40.19743808102301
+    },
+    "data": {
+      "Edad": 22,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.1036463953744,
+      "lon": -40.20042000652435
+    },
+    "data": {
+      "Edad": 58,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.099223144620396,
+      "lon": -40.19021913080926
+    },
+    "data": {
+      "Edad": 97,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.09307513544857,
+      "lon": -40.2076237505117
+    },
+    "data": {
+      "Edad": 83,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.09988202847066,
+      "lon": -40.195914699590155
+    },
+    "data": {
+      "Edad": 70,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false
+    }
+  },
+  {
+    "location": {
+      "lat": 40.10380045975562,
+      "lon": -40.1919961775115
+    },
+    "data": {
+      "Edad": 20,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true
+    }
+  },
+  {
+    "location": {
+      "lat": 40.10844752684261,
+      "lon": -40.20116035499463
+    },
+    "data": {
+      "Edad": 58,
+      "numero_de_cuadras_a_parada_de_colectivo": 8,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false
+    }
+  }
+]

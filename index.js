@@ -5,7 +5,7 @@
  */
 const program                     = require('commander');
 const { processPuntosDigitales }  = require('./elasticmanager');
-const { generateRandomPoints }    = require('./geo');
+const { Seeder, DefaultSeeders }  = require('./seeder');
 
 // Puntos Digitales
 program
@@ -21,7 +21,8 @@ program
   .command('seed <fixture> <output>')
   .description('Create a seeded output file with the fixture fields')
   .action(function(fixture, output){
-    console.log("seeding...");
+    let seeder = new Seeder(DefaultSeeders);
+    seeder.seedAndSave(fixture, output);
   });
 
 program.parse(process.argv);

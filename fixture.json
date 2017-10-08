@@ -1,5 +1,5 @@
 {
-  "quantity": 1000,
+  "quantity": 10,
   "fields": [
     {
       "name": "Edad",
@@ -25,7 +25,7 @@
       "type": "bool"
     },
     {
-      "name": "position",
+      "name": "location",
       "type": "geo_point",
       "options": {
         "radius": 1000,
