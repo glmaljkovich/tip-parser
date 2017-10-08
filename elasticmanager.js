@@ -110,6 +110,18 @@ function processPuntosDigitales(file){
   parseAndBulkUpload(file, transformPuntosDigitales);
 }
 
+
+/**
+ * bulkIndexData - Uploads the data to ElasticSearch
+ *
+ * @param  {string} file the JSON file
+ */
+function bulkIndexData (file) {
+  parseAndBulkUpload(file, (list) => list);
+}
+
 module.exports = {
-  processPuntosDigitales
+  processPuntosDigitales,
+  bulkIndexData,
+  parseAndBulkUpload
 };

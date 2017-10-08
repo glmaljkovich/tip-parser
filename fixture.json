@@ -29,7 +29,7 @@
       "type": "geo_point",
       "options": {
         "radius": 1000,
-        "center": [40.1, -40.2]
+        "center": [-34.738814,-58.2571842]
       }
     }
   ]

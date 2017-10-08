@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 const program                     = require('commander');
-const { processPuntosDigitales }  = require('./elasticmanager');
+const { processPuntosDigitales, bulkIndexData }  = require('./elasticmanager');
 const { Seeder, DefaultSeeders }  = require('./seeder');
 
 // Puntos Digitales
@@ -23,6 +23,13 @@ program
   .action(function(fixture, output){
     let seeder = new Seeder(DefaultSeeders);
     seeder.seedAndSave(fixture, output);
+  });
+
+program
+  .command('bulk-index <file>')
+  .description('Uploads a JSON file containing an Array of GeoData to ElasticSearch.')
+  .action(function(file){
+    bulkIndexData(file);
   });
 
 program.parse(process.argv);
