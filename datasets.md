@@ -54,3 +54,6 @@ Nombre                       | Tipo de dato
 
  **Metadata** <br>
  http://datos.gob.ar/api/3/action/package_show?id=centros-acceso-justicia--caj-
+
+
+ De esta forma, la aplicacion podria mostrar la distribucion del acceso a internet en distintas zonas municipales, permitiendo identificar aquellas con mayor precarizacion. Este tipo de informacion puede ser muy util a la hora de conducir investigaciones socio-economicas.
