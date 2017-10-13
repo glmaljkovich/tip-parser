@@ -15,3 +15,8 @@ A Node.js package to read JSON files and upload them to a elasticsearch instance
 
     Example:
     tip-parser puntos-digitales puntos-digitales.json
+    
+    
+## Useful Docs
+- ![Datasets](https://gitlab.com/tip-gmalj/tip-parser/blob/master/datasets.md)
+- ![Campos Encuesta](https://gitlab.com/tip-gmalj/tip-parser/blob/master/encuesta.md)
