@@ -12,7 +12,7 @@ function ESIndexOp (type, index) {
  *
  * @param  {number} lat  latitude
  * @param  {number} long longitude
- * @return {LatLong} a point 
+ * @return {LatLong} a point
  */
 function LatLong (lat, long) {
   this.lat = lat;

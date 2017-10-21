@@ -9,6 +9,8 @@ http://datos.gob.ar/api/3/action/package_show?id=puntos-digitales
 **Descarga** (Primeros 100)<br>
 http://datos.gob.ar/api/3/action/datastore_search?resource_id=e0c4a825-9017-4b57-bf27-a015e02bebcc
 
+- Parametros: limit (page size)
+
 **Campos**
 
 Nombre                       | Tipo de dato

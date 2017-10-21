@@ -126,6 +126,13 @@ class Seeder {
     this.fieldSeeders[field.type].addField(element, field);
   }
 
+
+  /**
+   * generateElement - Create a new GeoData element with the fixture data
+   *
+   * @param  {Fixture} fixture description
+   * @return {GeoData}         description   
+   */
   generateElement (fixture) {
     let element = new GeoData(null, {});
     for (let field of fixture.fields) {

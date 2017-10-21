@@ -1,0 +1,1602 @@
+[
+  {
+    "location": {
+      "lat": -34.72316834512862,
+      "lon": -58.2197234766178
+    },
+    "data": {
+      "Edad": 34,
+      "numero_de_cuadras_a_parada_de_colectivo": 16,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 20
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72453141795705,
+      "lon": -58.24008474367582
+    },
+    "data": {
+      "Edad": 83,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 11,
+      "banco_mas_cercano": 10,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 81
+    }
+  },
+  {
+    "location": {
+      "lat": -34.6957790923644,
+      "lon": -58.2599959787628
+    },
+    "data": {
+      "Edad": 86,
+      "numero_de_cuadras_a_parada_de_colectivo": 3,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 27
+    }
+  },
+  {
+    "location": {
+      "lat": -34.730289691472635,
+      "lon": -58.2586825890134
+    },
+    "data": {
+      "Edad": 24,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 15,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 8
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72360785180181,
+      "lon": -58.29858811663458
+    },
+    "data": {
+      "Edad": 34,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 14
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77374207289439,
+      "lon": -58.25871608002429
+    },
+    "data": {
+      "Edad": 65,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 4,
+      "cajero_mas_cercano": 15,
+      "banco_mas_cercano": 10,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 22
+    }
+  },
+  {
+    "location": {
+      "lat": -34.76889608803422,
+      "lon": -58.26312245787196
+    },
+    "data": {
+      "Edad": 80,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 7,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 7
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73003092087178,
+      "lon": -58.293800050368404
+    },
+    "data": {
+      "Edad": 48,
+      "numero_de_cuadras_a_parada_de_colectivo": 3,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 10,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 20
+    }
+  },
+  {
+    "location": {
+      "lat": -34.718252888741695,
+      "lon": -58.24157416103774
+    },
+    "data": {
+      "Edad": 69,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 70
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72959079205627,
+      "lon": -58.27137971042742
+    },
+    "data": {
+      "Edad": 88,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 6,
+      "banco_mas_cercano": 14,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 49
+    }
+  },
+  {
+    "location": {
+      "lat": -34.772974475893456,
+      "lon": -58.28101414758634
+    },
+    "data": {
+      "Edad": 73,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 14,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 48
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75537921236593,
+      "lon": -58.21550487905708
+    },
+    "data": {
+      "Edad": 56,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 12,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 91
+    }
+  },
+  {
+    "location": {
+      "lat": -34.76079903444251,
+      "lon": -58.22904139002442
+    },
+    "data": {
+      "Edad": 78,
+      "numero_de_cuadras_a_parada_de_colectivo": 11,
+      "numero_de_cuadras_a_parada_de_tren": 15,
+      "cajero_mas_cercano": 5,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 92
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73399928451998,
+      "lon": -58.219334408857875
+    },
+    "data": {
+      "Edad": 43,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 88
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73284461445197,
+      "lon": -58.253559272631335
+    },
+    "data": {
+      "Edad": 84,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 7
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71643486786503,
+      "lon": -58.23174262864964
+    },
+    "data": {
+      "Edad": 55,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 17,
+      "banco_mas_cercano": 7,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 52
+    }
+  },
+  {
+    "location": {
+      "lat": -34.70570649167362,
+      "lon": -58.241472244041105
+    },
+    "data": {
+      "Edad": 61,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 16,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 28
+    }
+  },
+  {
+    "location": {
+      "lat": -34.743286338356924,
+      "lon": -58.2761306390863
+    },
+    "data": {
+      "Edad": 86,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 11,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 12
+    }
+  },
+  {
+    "location": {
+      "lat": -34.69547631674551,
+      "lon": -58.25218169258681
+    },
+    "data": {
+      "Edad": 19,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 18,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 32
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73624187908997,
+      "lon": -58.26620466268445
+    },
+    "data": {
+      "Edad": 38,
+      "numero_de_cuadras_a_parada_de_colectivo": 8,
+      "numero_de_cuadras_a_parada_de_tren": 4,
+      "cajero_mas_cercano": 9,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 5
+    }
+  },
+  {
+    "location": {
+      "lat": -34.776384421496076,
+      "lon": -58.26387439979309
+    },
+    "data": {
+      "Edad": 56,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 14,
+      "cajero_mas_cercano": 15,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 82
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71730831040249,
+      "lon": -58.24295451804658
+    },
+    "data": {
+      "Edad": 60,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 4,
+      "banco_mas_cercano": 7,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 31
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71754960682562,
+      "lon": -58.27617829166756
+    },
+    "data": {
+      "Edad": 46,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 19,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 75
+    }
+  },
+  {
+    "location": {
+      "lat": -34.70464236999957,
+      "lon": -58.240154488386004
+    },
+    "data": {
+      "Edad": 37,
+      "numero_de_cuadras_a_parada_de_colectivo": 16,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 4,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 4
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72970715570185,
+      "lon": -58.24953330461722
+    },
+    "data": {
+      "Edad": 68,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 13,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 15
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71276692429014,
+      "lon": -58.28089050233484
+    },
+    "data": {
+      "Edad": 97,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 78
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77840061434108,
+      "lon": -58.236209153456414
+    },
+    "data": {
+      "Edad": 41,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 23
+    }
+  },
+  {
+    "location": {
+      "lat": -34.719791893085755,
+      "lon": -58.288706211249156
+    },
+    "data": {
+      "Edad": 93,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 6,
+      "banco_mas_cercano": 13,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 92
+    }
+  },
+  {
+    "location": {
+      "lat": -34.774847684226906,
+      "lon": -58.24160985038611
+    },
+    "data": {
+      "Edad": 69,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 10,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 2
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7003277717862,
+      "lon": -58.24567258670272
+    },
+    "data": {
+      "Edad": 97,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 18
+    }
+  },
+  {
+    "location": {
+      "lat": -34.708913979854174,
+      "lon": -58.27996335053837
+    },
+    "data": {
+      "Edad": 37,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 65
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72787157229075,
+      "lon": -58.246976584410994
+    },
+    "data": {
+      "Edad": 89,
+      "numero_de_cuadras_a_parada_de_colectivo": 3,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 9,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 9
+    }
+  },
+  {
+    "location": {
+      "lat": -34.705078512909765,
+      "lon": -58.22956754682884
+    },
+    "data": {
+      "Edad": 67,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 5,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 46
+    }
+  },
+  {
+    "location": {
+      "lat": -34.753015334074206,
+      "lon": -58.225625127817985
+    },
+    "data": {
+      "Edad": 51,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 28
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75627695543286,
+      "lon": -58.29436094136452
+    },
+    "data": {
+      "Edad": 96,
+      "numero_de_cuadras_a_parada_de_colectivo": 16,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 15
+    }
+  },
+  {
+    "location": {
+      "lat": -34.783318835064655,
+      "lon": -58.25485230473798
+    },
+    "data": {
+      "Edad": 34,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 6,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 84
+    }
+  },
+  {
+    "location": {
+      "lat": -34.74518321219027,
+      "lon": -58.214010025494304
+    },
+    "data": {
+      "Edad": 95,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 16,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 4,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 75
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7694563933399,
+      "lon": -58.276200047178214
+    },
+    "data": {
+      "Edad": 57,
+      "numero_de_cuadras_a_parada_de_colectivo": 3,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 10,
+      "banco_mas_cercano": 1,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 88
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73104703717174,
+      "lon": -58.293753081447626
+    },
+    "data": {
+      "Edad": 18,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 23
+    }
+  },
+  {
+    "location": {
+      "lat": -34.70989911009409,
+      "lon": -58.28106306224879
+    },
+    "data": {
+      "Edad": 42,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 9,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 8
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75472092204423,
+      "lon": -58.21539008201347
+    },
+    "data": {
+      "Edad": 43,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 18,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 7,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 26
+    }
+  },
+  {
+    "location": {
+      "lat": -34.760438097651665,
+      "lon": -58.25033139117517
+    },
+    "data": {
+      "Edad": 22,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 15,
+      "cajero_mas_cercano": 19,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 95
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75932795790395,
+      "lon": -58.28471089697626
+    },
+    "data": {
+      "Edad": 25,
+      "numero_de_cuadras_a_parada_de_colectivo": 7,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 5,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 24
+    }
+  },
+  {
+    "location": {
+      "lat": -34.74981437949618,
+      "lon": -58.28626242677772
+    },
+    "data": {
+      "Edad": 99,
+      "numero_de_cuadras_a_parada_de_colectivo": 8,
+      "numero_de_cuadras_a_parada_de_tren": 17,
+      "cajero_mas_cercano": 9,
+      "banco_mas_cercano": 6,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 34
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73961082109156,
+      "lon": -58.28128343652727
+    },
+    "data": {
+      "Edad": 99,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 15,
+      "cajero_mas_cercano": 15,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 95
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77458137836708,
+      "lon": -58.2728132937776
+    },
+    "data": {
+      "Edad": 63,
+      "numero_de_cuadras_a_parada_de_colectivo": 8,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 14,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 37
+    }
+  },
+  {
+    "location": {
+      "lat": -34.728036853002735,
+      "lon": -58.28279896332622
+    },
+    "data": {
+      "Edad": 78,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 10,
+      "cajero_mas_cercano": 11,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 72
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72383753049495,
+      "lon": -58.25543890928562
+    },
+    "data": {
+      "Edad": 62,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 15,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 25
+    }
+  },
+  {
+    "location": {
+      "lat": -34.741707876275264,
+      "lon": -58.23120540103624
+    },
+    "data": {
+      "Edad": 80,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 16,
+      "banco_mas_cercano": 15,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 98
+    }
+  },
+  {
+    "location": {
+      "lat": -34.757046406370634,
+      "lon": -58.23686837766335
+    },
+    "data": {
+      "Edad": 91,
+      "numero_de_cuadras_a_parada_de_colectivo": 11,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 35
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73048820213218,
+      "lon": -58.298270936864945
+    },
+    "data": {
+      "Edad": 87,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "cajero_mas_cercano": 13,
+      "banco_mas_cercano": 7,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 33
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75106712565253,
+      "lon": -58.248240537100926
+    },
+    "data": {
+      "Edad": 20,
+      "numero_de_cuadras_a_parada_de_colectivo": 1,
+      "numero_de_cuadras_a_parada_de_tren": 14,
+      "cajero_mas_cercano": 11,
+      "banco_mas_cercano": 9,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 5
+    }
+  },
+  {
+    "location": {
+      "lat": -34.772447943383774,
+      "lon": -58.265839825694854
+    },
+    "data": {
+      "Edad": 18,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 5,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 95
+    }
+  },
+  {
+    "location": {
+      "lat": -34.720447125144595,
+      "lon": -58.262856451854184
+    },
+    "data": {
+      "Edad": 80,
+      "numero_de_cuadras_a_parada_de_colectivo": 7,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 59
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77462864852264,
+      "lon": -58.24573687969241
+    },
+    "data": {
+      "Edad": 82,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 13,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 28
+    }
+  },
+  {
+    "location": {
+      "lat": -34.70234408470664,
+      "lon": -58.249544478576375
+    },
+    "data": {
+      "Edad": 62,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 5,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 55
+    }
+  },
+  {
+    "location": {
+      "lat": -34.777894087209575,
+      "lon": -58.23491764800339
+    },
+    "data": {
+      "Edad": 46,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 15,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 63
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71046621633646,
+      "lon": -58.28465632869471
+    },
+    "data": {
+      "Edad": 92,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 5,
+      "banco_mas_cercano": 12,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 95
+    }
+  },
+  {
+    "location": {
+      "lat": -34.725633246120715,
+      "lon": -58.21414508915684
+    },
+    "data": {
+      "Edad": 68,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 16,
+      "banco_mas_cercano": 14,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 33
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75289484597326,
+      "lon": -58.22161247237115
+    },
+    "data": {
+      "Edad": 32,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 6,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 22
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7591968588712,
+      "lon": -58.29668941019635
+    },
+    "data": {
+      "Edad": 74,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 1,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 80
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7520572602673,
+      "lon": -58.25063651139254
+    },
+    "data": {
+      "Edad": 79,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 14,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 15
+    }
+  },
+  {
+    "location": {
+      "lat": -34.751632744853275,
+      "lon": -58.26022478154495
+    },
+    "data": {
+      "Edad": 50,
+      "numero_de_cuadras_a_parada_de_colectivo": 11,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 13,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 99
+    }
+  },
+  {
+    "location": {
+      "lat": -34.742991352430685,
+      "lon": -58.23098319910339
+    },
+    "data": {
+      "Edad": 29,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 40
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73148353454625,
+      "lon": -58.213546586384005
+    },
+    "data": {
+      "Edad": 47,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 2,
+      "cajero_mas_cercano": 17,
+      "banco_mas_cercano": 15,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 55
+    }
+  },
+  {
+    "location": {
+      "lat": -34.771437638638076,
+      "lon": -58.269241847288235
+    },
+    "data": {
+      "Edad": 23,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 18,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 90
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73996356895486,
+      "lon": -58.218070892156156
+    },
+    "data": {
+      "Edad": 37,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 16,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 15
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73171904391321,
+      "lon": -58.28141057844827
+    },
+    "data": {
+      "Edad": 91,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 15,
+      "banco_mas_cercano": 10,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 53
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71770603298984,
+      "lon": -58.217999287671276
+    },
+    "data": {
+      "Edad": 67,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 74
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72075907939847,
+      "lon": -58.27912752256751
+    },
+    "data": {
+      "Edad": 96,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 15,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 46
+    }
+  },
+  {
+    "location": {
+      "lat": -34.776687395563286,
+      "lon": -58.23509393426858
+    },
+    "data": {
+      "Edad": 25,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 2,
+      "cajero_mas_cercano": 19,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 7
+    }
+  },
+  {
+    "location": {
+      "lat": -34.705636555001796,
+      "lon": -58.22941458413129
+    },
+    "data": {
+      "Edad": 39,
+      "numero_de_cuadras_a_parada_de_colectivo": 10,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "cajero_mas_cercano": 5,
+      "banco_mas_cercano": 12,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 79
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72911926014195,
+      "lon": -58.293071065013976
+    },
+    "data": {
+      "Edad": 47,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 41
+    }
+  },
+  {
+    "location": {
+      "lat": -34.74226643849959,
+      "lon": -58.21989060407794
+    },
+    "data": {
+      "Edad": 69,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 9,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 66
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73829359116572,
+      "lon": -58.300540092869966
+    },
+    "data": {
+      "Edad": 27,
+      "numero_de_cuadras_a_parada_de_colectivo": 3,
+      "numero_de_cuadras_a_parada_de_tren": 1,
+      "cajero_mas_cercano": 9,
+      "banco_mas_cercano": 12,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 39
+    }
+  },
+  {
+    "location": {
+      "lat": -34.729204126565755,
+      "lon": -58.286168440908575
+    },
+    "data": {
+      "Edad": 99,
+      "numero_de_cuadras_a_parada_de_colectivo": 15,
+      "numero_de_cuadras_a_parada_de_tren": 2,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 12
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77401805942745,
+      "lon": -58.27585649473372
+    },
+    "data": {
+      "Edad": 78,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 18,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 1,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 68
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7734918096276,
+      "lon": -58.23785679562487
+    },
+    "data": {
+      "Edad": 64,
+      "numero_de_cuadras_a_parada_de_colectivo": 11,
+      "numero_de_cuadras_a_parada_de_tren": 3,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 18,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 43
+    }
+  },
+  {
+    "location": {
+      "lat": -34.7153110085906,
+      "lon": -58.26840504262757
+    },
+    "data": {
+      "Edad": 61,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 54
+    }
+  },
+  {
+    "location": {
+      "lat": -34.76950490894632,
+      "lon": -58.24295571879076
+    },
+    "data": {
+      "Edad": 94,
+      "numero_de_cuadras_a_parada_de_colectivo": 10,
+      "numero_de_cuadras_a_parada_de_tren": 4,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 9,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 41
+    }
+  },
+  {
+    "location": {
+      "lat": -34.694969182945215,
+      "lon": -58.258632311823206
+    },
+    "data": {
+      "Edad": 24,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 16,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 1,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 39
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73454508701803,
+      "lon": -58.2166894490666
+    },
+    "data": {
+      "Edad": 34,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 16,
+      "banco_mas_cercano": 19,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 88
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72730365015895,
+      "lon": -58.26311760302985
+    },
+    "data": {
+      "Edad": 23,
+      "numero_de_cuadras_a_parada_de_colectivo": 7,
+      "numero_de_cuadras_a_parada_de_tren": 18,
+      "cajero_mas_cercano": 17,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 67
+    }
+  },
+  {
+    "location": {
+      "lat": -34.74980388361112,
+      "lon": -58.27593337704601
+    },
+    "data": {
+      "Edad": 50,
+      "numero_de_cuadras_a_parada_de_colectivo": 17,
+      "numero_de_cuadras_a_parada_de_tren": 13,
+      "cajero_mas_cercano": 19,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 62
+    }
+  },
+  {
+    "location": {
+      "lat": -34.71913834923365,
+      "lon": -58.24615425555964
+    },
+    "data": {
+      "Edad": 88,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 16,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 5,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 47
+    }
+  },
+  {
+    "location": {
+      "lat": -34.69884495756476,
+      "lon": -58.26276550938212
+    },
+    "data": {
+      "Edad": 72,
+      "numero_de_cuadras_a_parada_de_colectivo": 10,
+      "numero_de_cuadras_a_parada_de_tren": 11,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 54
+    }
+  },
+  {
+    "location": {
+      "lat": -34.73436284323675,
+      "lon": -58.267260430309115
+    },
+    "data": {
+      "Edad": 98,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 13,
+      "cajero_mas_cercano": 12,
+      "banco_mas_cercano": 18,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 84
+    }
+  },
+  {
+    "location": {
+      "lat": -34.749018158834794,
+      "lon": -58.227993844911545
+    },
+    "data": {
+      "Edad": 40,
+      "numero_de_cuadras_a_parada_de_colectivo": 4,
+      "numero_de_cuadras_a_parada_de_tren": 6,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 11,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 51
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72784844598191,
+      "lon": -58.25938212623871
+    },
+    "data": {
+      "Edad": 71,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 1,
+      "banco_mas_cercano": 16,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 8
+    }
+  },
+  {
+    "location": {
+      "lat": -34.75366166940997,
+      "lon": -58.27870133481974
+    },
+    "data": {
+      "Edad": 67,
+      "numero_de_cuadras_a_parada_de_colectivo": 18,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 3,
+      "banco_mas_cercano": 11,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 37
+    }
+  },
+  {
+    "location": {
+      "lat": -34.70979431001993,
+      "lon": -58.228717267195805
+    },
+    "data": {
+      "Edad": 69,
+      "numero_de_cuadras_a_parada_de_colectivo": 2,
+      "numero_de_cuadras_a_parada_de_tren": 12,
+      "cajero_mas_cercano": 20,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 98
+    }
+  },
+  {
+    "location": {
+      "lat": -34.710229282461576,
+      "lon": -58.27310059438111
+    },
+    "data": {
+      "Edad": 53,
+      "numero_de_cuadras_a_parada_de_colectivo": 13,
+      "numero_de_cuadras_a_parada_de_tren": 20,
+      "cajero_mas_cercano": 7,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 13
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72394878909152,
+      "lon": -58.29646154487998
+    },
+    "data": {
+      "Edad": 29,
+      "numero_de_cuadras_a_parada_de_colectivo": 9,
+      "numero_de_cuadras_a_parada_de_tren": 9,
+      "cajero_mas_cercano": 5,
+      "banco_mas_cercano": 11,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 84
+    }
+  },
+  {
+    "location": {
+      "lat": -34.72253510843263,
+      "lon": -58.229670370666256
+    },
+    "data": {
+      "Edad": 28,
+      "numero_de_cuadras_a_parada_de_colectivo": 14,
+      "numero_de_cuadras_a_parada_de_tren": 8,
+      "cajero_mas_cercano": 9,
+      "banco_mas_cercano": 8,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 63
+    }
+  },
+  {
+    "location": {
+      "lat": -34.773757569908696,
+      "lon": -58.24582502380647
+    },
+    "data": {
+      "Edad": 65,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 16,
+      "cajero_mas_cercano": 17,
+      "banco_mas_cercano": 14,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 19
+    }
+  },
+  {
+    "location": {
+      "lat": -34.69606386371817,
+      "lon": -58.25894436893828
+    },
+    "data": {
+      "Edad": 82,
+      "numero_de_cuadras_a_parada_de_colectivo": 6,
+      "numero_de_cuadras_a_parada_de_tren": 14,
+      "cajero_mas_cercano": 2,
+      "banco_mas_cercano": 17,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 47
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77103167410705,
+      "lon": -58.24096206641617
+    },
+    "data": {
+      "Edad": 85,
+      "numero_de_cuadras_a_parada_de_colectivo": 20,
+      "numero_de_cuadras_a_parada_de_tren": 7,
+      "cajero_mas_cercano": 10,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 35
+    }
+  },
+  {
+    "location": {
+      "lat": -34.77904770434926,
+      "lon": -58.26547432568319
+    },
+    "data": {
+      "Edad": 58,
+      "numero_de_cuadras_a_parada_de_colectivo": 5,
+      "numero_de_cuadras_a_parada_de_tren": 4,
+      "cajero_mas_cercano": 19,
+      "banco_mas_cercano": 3,
+      "tiene_telefono_fijo": false,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 69
+    }
+  },
+  {
+    "location": {
+      "lat": -34.754145783793234,
+      "lon": -58.29236423188977
+    },
+    "data": {
+      "Edad": 53,
+      "numero_de_cuadras_a_parada_de_colectivo": 12,
+      "numero_de_cuadras_a_parada_de_tren": 19,
+      "cajero_mas_cercano": 14,
+      "banco_mas_cercano": 20,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": false,
+      "velocidad_de_internet": 52
+    }
+  },
+  {
+    "location": {
+      "lat": -34.761844944019025,
+      "lon": -58.26501986825029
+    },
+    "data": {
+      "Edad": 60,
+      "numero_de_cuadras_a_parada_de_colectivo": 10,
+      "numero_de_cuadras_a_parada_de_tren": 2,
+      "cajero_mas_cercano": 8,
+      "banco_mas_cercano": 2,
+      "tiene_telefono_fijo": true,
+      "tiene_cuenta_bancaria": true,
+      "velocidad_de_internet": 51
+    }
+  }
+]

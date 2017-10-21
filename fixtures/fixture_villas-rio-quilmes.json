@@ -1,5 +1,5 @@
 {
-  "quantity": 10,
+  "quantity": 1000,
   "fields": [
     {
       "name": "Edad",
@@ -9,12 +9,22 @@
     {
       "name": "numero_de_cuadras_a_parada_de_colectivo",
       "type": "number",
-      "options": [1, 20]
+      "options": [10, 20]
     },
     {
       "name": "numero_de_cuadras_a_parada_de_tren",
       "type": "number",
-      "options": [1, 20]
+      "options": [10, 20]
+    },
+    {
+      "name": "cajero_mas_cercano",
+      "type": "number",
+      "options": [15, 30]
+    },
+    {
+      "name": "banco_mas_cercano",
+      "type": "number",
+      "options": [15, 30]
     },
     {
       "name": "tiene_telefono_fijo",
@@ -25,11 +35,16 @@
       "type": "bool"
     },
     {
+      "name": "velocidad_de_internet",
+      "type": "number",
+      "options": [0, 3]
+    },
+    {
       "name": "location",
       "type": "geo_point",
       "options": {
         "radius": 1000,
-        "center": [-34.738814,-58.2571842]
+        "center": [-34.716867, -58.234305]
       }
     }
   ]
