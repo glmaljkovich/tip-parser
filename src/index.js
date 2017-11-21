@@ -17,11 +17,17 @@ program
   });
 
 program
-  .version('0.1.1')
   .command('villas <file>')
   .description('Add the Villas in the specified file to ElasticSearch')
   .action(function(file){
     new ElasticManager('tip', 'senso').processVillas(file);
+  });
+
+program
+  .command('senso <file>')
+  .description('Add the Senso in the specified file to ElasticSearch')
+  .action(function(file){
+    new ElasticManager('tip2', 'senso2010').processSenso(file);
   });
 
 // Seeder
@@ -34,10 +40,10 @@ program
   });
 
 program
-  .command('bulk-index <type> <file>')
+  .command('bulk-index <index> <type> <file>')
   .description('Uploads a JSON file containing an Array of GeoData to the ElasticSearch type.')
-  .action(function(type, file){
-    new ElasticManager('tip', type).bulkIndexData(file);
+  .action(function(index, type, file){
+    new ElasticManager(index, type).bulkIndexData(file);
   });
 
 program.parse(process.argv);

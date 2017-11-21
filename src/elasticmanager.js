@@ -65,6 +65,17 @@ class ElasticManager {
     });
   }
 
+
+  /**
+   * getGeoJSONFeatureCollectionData - read a Geo JSON file with data from Senso 2010
+   *
+   * @param  {type} geoshapecollection description
+   * @return {Array}                    data
+   */
+  getGeoJSONFeatureCollectionData (geoshapecollection) {
+    return geoshapecollection.features;
+  }
+
   /**
    * mapIndexArrayDocuments - maps an array of documents to an array of ElasticSearch Index Operations containing those documents.
    *
@@ -112,6 +123,10 @@ class ElasticManager {
     return this.getVillasData(this.getCKANData(ckanData));
   }
 
+  transformSenso (geoShapeCollection) {
+    return this.getGeoJSONFeatureCollectionData(geoShapeCollection);
+  }
+
   identityTransform (data) {
     return data;
   }
@@ -124,7 +139,6 @@ class ElasticManager {
         let doc = JSON.parse(data);
         console.log("File read.");
         console.log("Uploading records...");
-        //saveFile(getPDData(doc));
         let transformedData = that[docTransformFunction](doc);
         this.bulkIndexES(transformedData);
       });
@@ -139,6 +153,10 @@ class ElasticManager {
 
   processVillas (file) {
     this.parseAndBulkUpload(file, 'transformVillas');
+  }
+
+  processSenso(file) {
+    this.parseAndBulkUpload(file, 'transformSenso')
   }
 
 
