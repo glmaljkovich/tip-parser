@@ -24,10 +24,10 @@ program
   });
 
 program
-  .command('senso <file>')
-  .description('Add the Senso in the specified file to ElasticSearch')
+  .command('censo <file>')
+  .description('Add the Censo in the specified file to ElasticSearch')
   .action(function(file){
-    new ElasticManager('tip2', 'senso2010').processSenso(file);
+    new ElasticManager('tip3', 'censo2010').processCenso(file);
   });
 
 // Seeder

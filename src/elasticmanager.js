@@ -4,7 +4,8 @@ const { ESIndexOp, LatLong, GeoData } = require('./datatypes');
 const ES_INDEX = 'tip';
 const PUNTOS_DIGITALES = 'puntos_digitales';
 const ELASTIC_DEFAULT = {
-  host: 'http://elastic:changeme@localhost:9200'
+  host: 'http://elastic:changeme@localhost:9200',
+  requestTimeout: 60000
 };
 
 class ElasticManager {
@@ -65,6 +66,13 @@ class ElasticManager {
     });
   }
 
+  getCensoData (list) {
+    return list.map((element) => {
+      element.properties.density = (element.properties.hogares / element.properties.viviendasp);
+      return element;
+    });
+  }
+
 
   /**
    * getGeoJSONFeatureCollectionData - read a Geo JSON file with data from Senso 2010
@@ -94,6 +102,23 @@ class ElasticManager {
 
 
   /**
+   * splitArray - Splits an array into even chunks of #size
+   *
+   * @param  {Array} array the original array
+   * @param  {number} size  chunk size
+   * @return {Array}       an [Array]
+   */
+  splitArray (array, size) {
+    let i,j;
+    let result = [];
+    for (i=0,j=array.length; i<j; i+=size) {
+        const chunk = array.slice(i,i+size);
+        result.push(chunk);
+    }
+    return result;
+  }
+
+  /**
    * bulkIndexES - It indexes an array of documents in the ElasticSearch instance.
    *
    * @param  {type} list description
@@ -101,12 +126,34 @@ class ElasticManager {
    */
   bulkIndexES (list) {
     let indexArray = this.mapIndexArrayDocuments(list);
-    this.elastic.bulk({
-      body: indexArray
-    }).then(
-      (response) => console.log("Data successfully loaded."),
-      (error) => console.log(error)
-    );
+    let arrays = this.splitArray(indexArray, 1000);
+    for (var chunk of arrays) {
+      this.elastic.bulk({
+        timeout: "30m",
+        body: chunk
+      }).then(
+        (response) => console.log("1000 records successfully loaded."),
+        (error) => console.log(error)
+      );
+    }
+
+  }
+
+  sequentiallyIndexES (list) {
+    let count = 0;
+    for (var element of list) {
+      this.elastic.index({
+        index: this.esIndex,
+        type: this.type,
+        body: element
+      }).then(
+        (response) => {count++;},
+        (error) => console.log(error)
+      );
+      //code before the pause
+      setTimeout(() =>{console.log("waited 50ms")}, 50);
+    }
+    console.log("Documents loaded after loop: " + count);
   }
 
 
@@ -123,8 +170,8 @@ class ElasticManager {
     return this.getVillasData(this.getCKANData(ckanData));
   }
 
-  transformSenso (geoShapeCollection) {
-    return this.getGeoJSONFeatureCollectionData(geoShapeCollection);
+  transformCenso (geoShapeCollection) {
+    return this.getCensoData(this.getGeoJSONFeatureCollectionData(geoShapeCollection));
   }
 
   identityTransform (data) {
@@ -147,6 +194,22 @@ class ElasticManager {
     }
   }
 
+  parseAndSequentiallyUpload (file, docTransformFunction) {
+    if (file) {
+      console.log('reading file...');
+      let that = this;
+      fs.readFile(file, 'utf8', (err, data) => {
+        let doc = JSON.parse(data);
+        console.log("File read.");
+        console.log("Uploading records...");
+        let transformedData = that[docTransformFunction](doc);
+        that.sequentiallyIndexES(transformedData);
+      });
+    } else {
+      console.error("No file was specified");
+    }
+  }
+
   processPuntosDigitales(file){
     this.parseAndBulkUpload(file, 'transformPuntosDigitales');
   }
@@ -155,8 +218,9 @@ class ElasticManager {
     this.parseAndBulkUpload(file, 'transformVillas');
   }
 
-  processSenso(file) {
-    this.parseAndBulkUpload(file, 'transformSenso')
+  processCenso(file) {
+    //this.parseAndSequentiallyUpload(file, 'transformCenso')
+    this.parseAndBulkUpload(file, 'transformCenso');
   }
 
 
