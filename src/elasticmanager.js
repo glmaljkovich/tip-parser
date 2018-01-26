@@ -68,7 +68,7 @@ class ElasticManager {
 
   getCensoData (list) {
     return list.map((element) => {
-      element.properties.density = (element.properties.hogares / element.properties.viviendasp);
+      element.properties.density = (element.properties.viviendasp / element.properties.hogares);
       return element;
     });
   }
