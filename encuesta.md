@@ -38,9 +38,9 @@ Nota: Candidatos a eliminacion en **negrita**.
 Nombre                     | Tipo de dato
 ---------------------------|-----------------------
 tiene_telefono_fijo        | booleano
-tiene_celular              | Array? Diccionario? (Multiples opciones)
-**servicios_que_tiene_y_paga** | Array de JSON? `[{servicio, tiene, paga}]`
-velocidad_banda_ancha      | numerico? (Multiples opciones excluyentes)
+tiene_celular              | texto (multiples opciones)
+**servicios_que_tiene_y_paga** | Diccionario `{ "nombre de servicio": {tiene: bool, paga: bool}, ...}`
+velocidad_banda_ancha      | numerico (Multiples opciones excluyentes)
 
 #### 4. Servicios Bancarios
 
@@ -51,8 +51,8 @@ Nombre                     | Tipo de dato
 tiene_cuenta_bancaria      | booleano
 usa_home_banking           | booleano
 tiene_tarjeta_de_credito   | booleano
-negocios_con_postnet_cerca | numerico? (Multiples opciones excluyentes)
-cajeros_automaticos_cerca  | numerico? (Multiples opciones excluyentes)
+negocios_con_postnet_cerca | numerico (Multiples opciones excluyentes)
+cajeros_automaticos_cerca  | numerico (Multiples opciones excluyentes)
 cajero_mas_cercano         | numerico (cuadras)
 banco_mas_cercano          | numerico (cuadras)
 
