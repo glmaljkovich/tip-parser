@@ -8,7 +8,7 @@ Nombre                                  | Tipo de dato
 ----------------------------------------|-----------------------
 edad                                    | numerico
 sexo                                    | texto
-esquina_más_cercana                     | ??? <br> **Posibilidades:** <br> 1. Dos campos de texto `calle_1` y `calle_2` <br> 2. `geo_point` usando geolocalizacion
+esquina_más_cercana                     | geo_point
 nivel_de_educacion                      | texto
 trabaja                                 | booleano
 
@@ -22,10 +22,10 @@ numero_de_cuadras_a_parada_de_colectivo | numerico
 numero_de_cuadras_a_estacion_de_tren    | numerico
 frecuencia_colectivo                    | numerico
 frecuencia_tren                         | numerico
-medios_de_transporte_utilizados_UNQ     | texto? Array?
-tiempo_de_viaje_por_transporte_UNQ      | Array de JSON? `[{transporte, duracion}]`
-medios_de_transporte_utilizados_trabajo     | texto? Array?
-tiempo_de_viaje_por_transporte_trabajo      | Array de JSON? `[{transporte, duracion}]`
+medios_de_transporte_utilizados_UNQ     | Array de String
+tiempo_de_viaje_por_transporte_UNQ      | Diccionario `{"transporte": duracion (numerico), ...}`
+medios_de_transporte_utilizados_trabajo     | Array de String
+tiempo_de_viaje_por_transporte_trabajo      | Diccionario `{"transporte": duracion (numerico), ...}`
 costo_viaje_a_UNQ                       | numerico
 
 
