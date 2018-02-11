@@ -74,6 +74,7 @@ banco_mas_cercano          | numerico (cuadras)
 - 4.10. ¿Por qué no?
 - 4.11. En los últimos 5 años, ¿algún miembro del hogar tuvo algún otro tipo préstamo?
 - SECCION 5 COMPLETA
+
 ----
 
 #### Errores en la Encuesta
