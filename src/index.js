@@ -20,14 +20,14 @@ program
   .command('villas <file>')
   .description('Add the Villas in the specified file to ElasticSearch')
   .action(function(file){
-    new ElasticManager('tip', 'senso').processVillas(file);
+    new ElasticManager('villas', 'villas').processVillas(file);
   });
 
 program
   .command('censo <file>')
   .description('Add the Censo in the specified file to ElasticSearch')
   .action(function(file){
-    new ElasticManager('tip3', 'censo2010').processCenso(file);
+    new ElasticManager('censo', 'censo2010').processCenso(file);
   });
 
 // Seeder

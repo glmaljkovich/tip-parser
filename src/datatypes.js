@@ -19,9 +19,10 @@ function LatLong (lat, long) {
   this.lon = long;
 }
 
-function GeoData (location, data) {
+function GeoData (location, data, area = {}) {
   this.location = location;
-  this.data = data;
+  this.data     = data;
+  this.area     = area;
 }
 
 
@@ -29,7 +30,7 @@ function GeoData (location, data) {
  * Fixture - A Seeder Fixture
  *
  * @param  {number} quantity number of objects to be created by a Seeder
- * @param  {Array} fields   fields with format {name: }
+ * @param  {Array<FixtureField>} fields   fields
  * @return {Fixture}          description
  */
 function Fixture(quantity, fields){
