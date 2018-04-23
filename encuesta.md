@@ -8,7 +8,7 @@ Nombre                                  | Tipo de dato
 ----------------------------------------|-----------------------
 edad                                    | numerico
 sexo                                    | texto
-esquina_más_cercana                     | ??? <br> **Posibilidades:** <br> 1. Dos campos de texto `calle_1` y `calle_2` <br> 2. `geo_point` usando geolocalizacion
+esquina_más_cercana                     | geo_point
 nivel_de_educacion                      | texto
 trabaja                                 | booleano
 
@@ -22,10 +22,10 @@ numero_de_cuadras_a_parada_de_colectivo | numerico
 numero_de_cuadras_a_estacion_de_tren    | numerico
 frecuencia_colectivo                    | numerico
 frecuencia_tren                         | numerico
-medios_de_transporte_utilizados_UNQ     | texto? Array?
-tiempo_de_viaje_por_transporte_UNQ      | Array de JSON? `[{transporte, duracion}]`
-medios_de_transporte_utilizados_trabajo     | texto? Array?
-tiempo_de_viaje_por_transporte_trabajo      | Array de JSON? `[{transporte, duracion}]`
+medios_de_transporte_utilizados_UNQ     | Array de String
+tiempo_de_viaje_por_transporte_UNQ      | Diccionario `{"transporte": duracion (numerico), ...}`
+medios_de_transporte_utilizados_trabajo     | Array de String
+tiempo_de_viaje_por_transporte_trabajo      | Diccionario `{"transporte": duracion (numerico), ...}`
 costo_viaje_a_UNQ                       | numerico
 
 
@@ -38,9 +38,9 @@ Nota: Candidatos a eliminacion en **negrita**.
 Nombre                     | Tipo de dato
 ---------------------------|-----------------------
 tiene_telefono_fijo        | booleano
-tiene_celular              | Array? Diccionario? (Multiples opciones)
-**servicios_que_tiene_y_paga** | Array de JSON? `[{servicio, tiene, paga}]`
-velocidad_banda_ancha      | numerico? (Multiples opciones excluyentes)
+tiene_celular              | texto (multiples opciones)
+**servicios_que_tiene_y_paga** | Diccionario `{ "nombre de servicio": {tiene: bool, paga: bool}, ...}`
+velocidad_banda_ancha      | numerico (Multiples opciones excluyentes)
 
 #### 4. Servicios Bancarios
 
@@ -51,8 +51,8 @@ Nombre                     | Tipo de dato
 tiene_cuenta_bancaria      | booleano
 usa_home_banking           | booleano
 tiene_tarjeta_de_credito   | booleano
-negocios_con_postnet_cerca | numerico? (Multiples opciones excluyentes)
-cajeros_automaticos_cerca  | numerico? (Multiples opciones excluyentes)
+negocios_con_postnet_cerca | numerico (Multiples opciones excluyentes)
+cajeros_automaticos_cerca  | numerico (Multiples opciones excluyentes)
 cajero_mas_cercano         | numerico (cuadras)
 banco_mas_cercano          | numerico (cuadras)
 
@@ -74,6 +74,7 @@ banco_mas_cercano          | numerico (cuadras)
 - 4.10. ¿Por qué no?
 - 4.11. En los últimos 5 años, ¿algún miembro del hogar tuvo algún otro tipo préstamo?
 - SECCION 5 COMPLETA
+
 ----
 
 #### Errores en la Encuesta
